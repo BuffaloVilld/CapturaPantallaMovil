@@ -1,2 +1,2 @@
 # CapturaPantallaMovil
-Captura pantalla movil Android mediante adb, y lo tranfiere al PC.
+Capture Android mobile screen using adb, and transfer it to the PC.

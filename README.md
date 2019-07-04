@@ -1,2 +1,2 @@
 # CapturaPantallaMovil
-Captura pantalla mediante adb
+Captura pantalla movil Android mediante adb
